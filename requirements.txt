@@ -1,0 +1,10 @@
+transformers==4.43.0
+num2words
+wandb
+accelerate
+peft==0.15.1
+bitsandbytes
+torch
+torchaudio
+torchvision
+flash-attn
